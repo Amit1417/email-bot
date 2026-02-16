@@ -1,5 +1,5 @@
 # email-bot
-# 📧 Email Bot – Bulk Internship Offer Sender
+# 📧 Email Bot – Bulk Email sender
 
 A simple Python automation script that sends personalized internship offer emails in bulk using Gmail SMTP. The bot reads recipient details from a CSV file and attaches a PDF offer letter automatically.
 
